@@ -1,0 +1,35 @@
+Povoa N-S --> Angeiras N-S
+Aeroporto --> Ponte Pedra
+Angeiras S-N --> Povoa S-N
+EN 205 PV --> Ferreiros
+Ferreiros --> EN 205 PV
+EN 205 PV --> Ferreiros
+Braga Sul --> Maia PV
+Angeiras S-N --> Povoa S-N
+Povoa N-S --> Angeiras N-S
+EN13 O/E --> EN107
+Maia II --> Braga Sul
+Braga Sul --> Maia II
+Ermesinde PV --> Valongo
+EN14 E/O --> Lipor
+Via Norte O/E --> Ponte Pedra
+Valongo --> Ermesinde PV
+Via Norte E/O --> Freixieiro
+Angeiras S-N --> Povoa S-N
+EN 205 PV --> Ferreiros
+Ferreiros --> EN 205 PV
+Povoa N-S --> Angeiras N-S
+Maia PV --> Braga Sul
+Ferreiros --> EN 205 PV
+EN 205 PV --> Ferreiros
+Ferreiros --> EN 205 PV
+Povoa N-S --> Angeiras N-S
+Aeroporto --> Ponte Pedra
+Via Norte E/O --> Custoias
+Angeiras S-N --> Povoa S-N
+Povoa N-S --> Angeiras N-S
+Angeiras S-N --> Povoa S-N
+EN 205 PV --> Ferreiros
+Ferreiros --> EN 205 PV
+EN 205 PV --> Ferreiros
+Ferreiros --> EN 205 PV
